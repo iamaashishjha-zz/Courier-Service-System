@@ -1,0 +1,3 @@
+001,Aashish Jha,aashish,admin,Manager
+002,Dipak Nyuapane,dipak,admin,Delivery Staff
+003,Admin,admin,admin,Manager
